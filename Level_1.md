@@ -4,7 +4,7 @@
 2) ```cat readme``` -> copy password
 
 
- 3)```cat ./- ``` as UNIX filenames are legal in this format but cannot be used in commands. -> copy password
+ 3) ```cat ./- ``` as UNIX filenames are legal in this format but cannot be used in commands. -> copy password
 
 
- 4)```cat spaces\ in \this \filename ``` to make the file name valid to read
+ 4) ```cat spaces\ in \this \filename ``` to make the file name valid to read
