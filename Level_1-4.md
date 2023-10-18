@@ -11,3 +11,9 @@
 
 
 4) ```cd inhere``` -> ```ls -a``` to list all files. -> ```cat .hidden```
+
+
+
+Bandit5:
+ ```ssh bandit5@bandit.labs.overthewire.org -p 2220```
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
