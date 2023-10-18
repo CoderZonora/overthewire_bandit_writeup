@@ -21,6 +21,9 @@ On further reading the ```man ls``` and moving about the server I found the -R o
 so I tried doing ```ls -lR``` and piping the output to grep to filter (After I had to stop the machine from listing the entire server file list). 
 
 
+Final password for bandit7: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
+
+
 I used grep to filter for the pattern '**bandit7**' and '**33**' using ```ls -lR | grep -E 'bandit7.*33'```. I got 2 files back as result but only one had bandit6 as the group. Thus I navigated to 
 /var/lib and using find to try to get the file but it did not show up. After some head scratching I filtered for files of size 33c  using ```find lib/* -size 33c``` and got the location 
 of the file under ```lib/dpkg/info/bandit7.password```.
