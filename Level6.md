@@ -1,4 +1,3 @@
-Password:P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
 Commands used: ```find inhere/* -type f -not -executable -size 1033c -> cat inhere/maybeinhere07/.file2```
 
