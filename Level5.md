@@ -12,6 +12,4 @@ https://www.google.com/search?client=firefox-b-d&q=what+is+human+readable+file
 Learned about ```file``` command and its usage.
 
 
-Bandit5:
- ```ssh bandit5@bandit.labs.overthewire.org -p 2220```
-lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+Password for bandit6:P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
