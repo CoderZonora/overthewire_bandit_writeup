@@ -2,4 +2,10 @@ Goal : The password for the next level is stored in the file data.txt and is the
 
 
 This should have been very quick and simple but ended up being a huge time waste.
-I started by reading up on the commmands proovided in the Level description. Go to know about the ```uniq``` command and instantly thought that this was an exact match to the problem. But doing ```uniq data.txt``` did not work. I tried the -c option and saw that almost all lines have a count of 1. I verified this by doing ``` uniq -c data.txt | grep -v '1' ``` but that showed that there were only three lines having count of 2 which was completely against what the questin demanded.
+I started by reading up on the commmands proovided in the Level description. Go to know about the ```uniq``` command and instantly thought that this was an exact match to the problem. But doing ```uniq data.txt``` did not work. I tried the -c option and saw that almost all lines have a count of 1. I verified this by doing ``` uniq -c data.txt | grep -v '1' ``` but that showed that there were only three lines having count of 2 which was completely against what the question demanded.
+
+
+After trying for some more time I noticed that in the output of uniq 2 lines were same which prompted me to searched if uniq does not work for others for some reason and that as when I discovered that uniq only works with sorted data (via this thread https://askubuntu.com/questions/536775/uniq-command-not-working-properly ).
+
+
+I just edited my initial command to include 
