@@ -7,3 +7,7 @@ used ```openssl s_client localhost:30001``` to set a new ssl connection. Then pr
 
 
 tried openssl enc but did not know which exact cipher to use to encode and coud not touch new files to use in -in parameter
+
+
+
+![VirtualBox_Ubuntu_24_10_2023_00_42_32](https://github.com/CoderZonora/overthewire_bandit_writeup/assets/140229408/5a0dba53-28a2-4d93-aec6-cbf26c5a820f)
