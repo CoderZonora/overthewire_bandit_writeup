@@ -27,6 +27,9 @@ Read: VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 Password matches, sending next password
 ```
 
+
+Pass for bandit21: NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
+
 ![image](https://github.com/CoderZonora/overthewire_bandit_writeup/assets/140229408/e3582e22-4187-4484-8ae2-0ac1eda30936)
 
 
