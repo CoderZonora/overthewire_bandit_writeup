@@ -26,10 +26,11 @@ Password matches, sending next password
 ```
 ![image](https://github.com/CoderZonora/overthewire_bandit_writeup/assets/140229408/cf168e63-b9cc-4799-b1c0-ad2657b85a31)
 
-Pass for bandit21: NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
+
 
 ![image](https://github.com/CoderZonora/overthewire_bandit_writeup/assets/140229408/e3582e22-4187-4484-8ae2-0ac1eda30936)
 
+Pass for bandit21: NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
 
 
 
