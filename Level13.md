@@ -24,8 +24,8 @@ Finally I just tried using nothing extra and it clicked, no errors and I got a r
 So used the ```file``` commmand and it was a bzip2 file. So decompressed that and the files continued to be of different formats(gzip,bzip2 and tar archive) and after 5-6 decompressions and renamings, 
 finally got the ASCII test file containing the password.
 
-![VirtualBox_Ubuntu_21_10_2023_00_07_45](https://github.com/CoderZonora/overthewire_bandit_writeup/assets/140229408/b1ac419b-2f52-4e14-a808-82baeb9ea0a8)
 ![VirtualBox_Ubuntu_21_10_2023_00_07_36](https://github.com/CoderZonora/overthewire_bandit_writeup/assets/140229408/e1923775-0ce6-4f31-8c5e-aec5286c7d3b)
+![VirtualBox_Ubuntu_21_10_2023_00_07_45](https://github.com/CoderZonora/overthewire_bandit_writeup/assets/140229408/b1ac419b-2f52-4e14-a808-82baeb9ea0a8)
 
 
 
