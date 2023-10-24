@@ -8,7 +8,7 @@ This article helped understand what output of a particualr port meant : https://
 used chmod 600 to change permissions
 
 
-could not ssh from inside bandit so had to ssh from my machine local user after logging out by copying the ssh key to my machine
+could not ssh from inside bandit so had to ssh from my machine local user after logging out by copying the ssh key to my machine using ```scp``` and logged iin using ssh -i to bandit17.
 
 
 
