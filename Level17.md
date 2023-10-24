@@ -11,7 +11,7 @@ This article helped understand what output of a particualr port meant  when usin
 Used chmod 600 to change permissions as temp.txt had open permissions which were not allowed by the ssl protocol.
 
 
-Could not ssh from inside bandit as that was blocked,so had to use ```scp``` to copy ***temp.txt*** to my machine and logged in as bandit17 by using that as the identity file with the ```-i``` option.
+Could not ssh from inside bandit as that was blocked,so had to use ```scp``` to copy **temp.txt** to my machine and logged in as bandit17 by using that as the identity file with the ```-i``` option.
 
 
 
