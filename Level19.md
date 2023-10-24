@@ -1,5 +1,5 @@
 First i tried to see if maybe bandit17 had read prmissions to the readme file but that did not work
-Next I tried to see if maybe connecting via telnet would work but it did not.
+Next I tried to see if maybe connecting via telnet would work but it did not even after trying to read many thread to try to debug the errors.
 
 
 
