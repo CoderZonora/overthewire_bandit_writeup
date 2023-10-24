@@ -5,7 +5,7 @@ So cannnot use ```ssh``` for this level.
 ***openssl*** was mentioned in the helpful commands list so read on how to connect to a server using ssl in linux. Found out about ```openssl s_client``` option.
 
 
-used ```openssl s_client localhost:30001``` to set up a new ssl connection. Then provided password of current level to get password in return.
+Used ```openssl s_client localhost:30001``` to set up a new ssl connection. Then provided password of current level to get password in return.
 
 
 
