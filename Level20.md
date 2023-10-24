@@ -15,3 +15,7 @@ It was then when I realised what i had to actually do.
 Ran ./bandit20-do cat /etc/bandit_pass/bandit20 and it worked
 
 ![image](https://github.com/CoderZonora/overthewire_bandit_writeup/assets/140229408/dedf8b0c-7db1-4a37-93b2-f9797f064f6b)
+
+
+
+Pass for bandit20:VxCazJaVykI6W36BkBU0mJTCM8rR95XT
