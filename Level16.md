@@ -11,3 +11,6 @@ tried openssl enc but did not know which exact cipher to use to encode and coud 
 
 
 ![VirtualBox_Ubuntu_24_10_2023_00_42_32](https://github.com/CoderZonora/overthewire_bandit_writeup/assets/140229408/5a0dba53-28a2-4d93-aec6-cbf26c5a820f)
+
+
+Pass for bandit16:JQttfApK4SeyHwDlI9SXGR50qclOAil1
