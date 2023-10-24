@@ -1,4 +1,4 @@
-The **cron.d** file gave :
+The **cronjob_bandit22** file gave :
 ```
 @reboot bandit22 /usr/bin/cronjob_bandit22.sh &> /dev/null
 
@@ -18,6 +18,9 @@ Next the actual job is specified, which here is a shell file whose output is goi
 Doing ```cat cronjob_bandit22.sh``` in ```/usr/bin``` showed a script which was changing all permissions of the files to 644 which meant read and write for the owner, read for the group, and read for other users.
 It was had ```cat /etc/bandit_pass/bandit22 > /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv``` i.e. to sending the output of ```/etc/bandit_pass/bandit22``` to a file in ```/tmp```.
 Doing ```cat``` for this file gave the password for the next level.
+
+
+![image](https://github.com/CoderZonora/overthewire_bandit_writeup/assets/140229408/993ed4a0-f420-4416-8e5a-e9d396870218)
 
 
 Pass for bandit22:WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
