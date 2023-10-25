@@ -10,7 +10,7 @@ Looked up what it was doing:
 
 **@reboot** means to do this job at reboot time.
 Next the user as which the cronjob is done is specified.
-Next the actual job is specified, which here is a shell file whose output is going into null so as not to fill mail anything the mailbox of the user which is a feature of cron.
+Next the actual job is specified, which here is a shell file whose output is redirected into null using ```&>``` so as not to fill mail anything the mailbox of the user which is a feature of cron.
 
  '\* \* \* \* \*' specifies to do this job every minute of every hour of every day of every week of every month.
 
