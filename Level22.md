@@ -23,4 +23,4 @@ Doing ```cat``` for this file gave the password for the next level.
 ![image](https://github.com/CoderZonora/overthewire_bandit_writeup/assets/140229408/993ed4a0-f420-4416-8e5a-e9d396870218)
 
 
-Pass for bandit22:WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
+Pass for bandit22: WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
