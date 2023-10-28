@@ -9,7 +9,7 @@ Used the article  https://www.freecodecamp.org/news/scp-linux-command-example-ho
 to know about the scp syntax.
 
 
-Used ```scp -P 2220 bandit18@bandit.labs.overthewire.org:readme . ``` to copy the file and et the password.
+Used ```scp -P 2220 bandit18@bandit.labs.overthewire.org:readme . ``` to copy the file and get the password.
 
 ![VirtualBox_Ubuntu_24_10_2023_16_40_36](https://github.com/CoderZonora/overthewire_bandit_writeup/assets/140229408/1fac1edc-f37e-40bd-8b7e-c4bdc2016349)
 
