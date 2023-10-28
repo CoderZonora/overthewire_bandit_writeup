@@ -9,4 +9,4 @@ Read about ROT-13 and found my answer in this thread on how to properly use ```t
 https://stackoverflow.com/questions/5442436/using-rot13-and-tr-command-for-having-an-encrypted-email-address
 
 
-Used the following command to get the password : ```cat data.txt| tr A-Za-z N-ZA-Mn-za-n```
+Used the following command to get the password : ```cat data.txt| tr A-Za-z N-ZA-Mn-za-m```
