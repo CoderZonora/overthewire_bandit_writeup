@@ -6,3 +6,6 @@ export TERM=linux
 exec more ~/text.txt
 exit 0
 ```
+
+Saw this video after trying a lot to finally get how to proceed: https://www.youtube.com/watch?v=gFh6iAGgzys
+Pass for bandit26: c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1
